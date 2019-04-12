@@ -1,0 +1,1 @@
+window.leaderboard = {"JPEG420": {"datetime": "2019-04-12 01:01:01", "psnr": 25.5154, "msssim": 0.860057, "images_size": 15743101, "decoding_time": 130135, "decoder_size": 161}}
