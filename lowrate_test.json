@@ -1,1 +1,1 @@
-window.leaderboard = {"JPEG420": {"datetime": "2019-04-13 21:17:56", "psnr": 25.5154, "msssim": 0.860057, "images_size": 15743101, "decoding_time": 130139, "decoder_size": 161}}
+window.leaderboard = {"JPEG420": {"datetime": "2019-04-14 00:11:46", "psnr": 25.5154, "msssim": 0.860057, "images_size": 15743101, "decoding_time": 130145, "decoder_size": 161}}
